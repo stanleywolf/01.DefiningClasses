@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.pdb

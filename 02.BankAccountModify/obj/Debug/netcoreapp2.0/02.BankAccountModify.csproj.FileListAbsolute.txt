@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\bin\Debug\netcoreapp2.0\02.BankAccountModify.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\bin\Debug\netcoreapp2.0\02.BankAccountModify.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\bin\Debug\netcoreapp2.0\02.BankAccountModify.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\bin\Debug\netcoreapp2.0\02.BankAccountModify.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\bin\Debug\netcoreapp2.0\02.BankAccountModify.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\obj\Debug\netcoreapp2.0\02.BankAccountModify.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\obj\Debug\netcoreapp2.0\02.BankAccountModify.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\obj\Debug\netcoreapp2.0\02.BankAccountModify.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\obj\Debug\netcoreapp2.0\02.BankAccountModify.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\01.DefiningClasses\02.BankAccountModify\obj\Debug\netcoreapp2.0\02.BankAccountModify.pdb
